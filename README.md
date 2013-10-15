@@ -1,5 +1,4 @@
 tutorial-git
 ============
 
-
-alterei o README :P
+Problem solutions
